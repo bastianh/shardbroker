@@ -1,0 +1,14 @@
+## Interface: 22000
+## Title: ShardBroker
+## Author: dafire
+## Version: 0.1
+## X-Email: dafire+wow@gmail.com
+## X-Category: Warlock
+
+LibStub.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+tekKonfigAboutPanel.lua
+
+ShardBroker.lua
