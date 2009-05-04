@@ -1,4 +1,4 @@
-## Interface: 22000
+## Interface: 30100
 ## Title: ShardBroker
 ## Author: dafire
 ## Version: 0.1
