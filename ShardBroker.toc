@@ -1,7 +1,9 @@
 ## Interface: 30100
+## X-Compatible-With: 40000
+
 ## Title: ShardBroker
 ## Author: dafire
-## Version: 0.1
+## Version: 0.2
 ## X-Email: dafire+wow@gmail.com
 ## X-Category: Warlock
 
