@@ -4,7 +4,7 @@ if(select(2, UnitClass('player')) ~= 'WARLOCK') then return end
 
 local _, _, _, uiVersion = GetBuildInfo()
 
-local dataobj = LibStub:GetLibrary("LibDataBroker-1.1"):NewDataObject("ShardBroker", {icon = "Interface\\Icons\\INV_Misc_Gem_Amethyst_02", text = "?"})
+local dataobj = LibStub:GetLibrary("LibDataBroker-1.1"):NewDataObject("ShardBroker", {type = "data source", icon = "Interface\\Icons\\INV_Misc_Gem_Amethyst_02", text = "?"})
 
 LibStub("tekKonfig-AboutPanel").new( nil , "ShardBroker") 
 
